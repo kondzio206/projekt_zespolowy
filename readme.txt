@@ -1,1 +1,1 @@
-To jest moje repozytorium GIT
+Dodano nową linię
